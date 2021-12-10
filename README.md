@@ -1,4 +1,4 @@
-# ACL2022-Chinese-Spelling-Check-and-Grammatical-Error-CorrectionPapers
+# Grammatical-Error-Correction-Papers
 
 ## Chinese Spelling Check
 |ID|NAME|Author|Link|Conference|
